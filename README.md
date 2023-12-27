@@ -1,4 +1,4 @@
-# Poker Game Version 2
+# Poker Game 
 
 Poker Game is the core interface involving a dealer (the program) and a single human player . It provides a platform for players to engage in gameplay by accessing game features, attempting challenges, and managing their progress. Through this game, players can log in, play the game, and utilize game-specific functionalities tailored to their gaming experience. The game uses standard playing cards, assigning values based on card ranks and suits. Players aim to achieve the highest accumulated value in their hand through multiple rounds of betting. Good luck and enjoy!
 
