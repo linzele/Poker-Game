@@ -29,7 +29,7 @@ public class GameModule {
 	}
 
 	public void login() {
-		System.out.println("HighSum Game");
+		System.out.println("Poker Game");
 		System.out.println(LINE);
 		System.out.print("Enter Login name > ");
 
@@ -61,7 +61,7 @@ public class GameModule {
 	public void run() {
 		resume = true;
 		System.out.println();
-		System.out.println("HighSum Game");
+		System.out.println("Poker Game");
 		System.out.println(LINE);
 		System.out.println(player.getLoginName() + ", You have " + player.getChips() + " chips");
 		System.out.println(LINE2);
