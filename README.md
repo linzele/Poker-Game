@@ -18,7 +18,7 @@ Poker Game is the core interface involving a dealer (the program) and a single h
     
     -   Use the Java compiler (`javac`) to compile the Java source files. Run the following command:
    ```bash
-		    `javac *.java`
+		    `javac GameModule.java`
 ```
 
     - This command compiles all Java files (`*.java`) in the directory.
@@ -27,7 +27,7 @@ Poker Game is the core interface involving a dealer (the program) and a single h
 
     -   Once the compilation is successful, execute the Java program. Use the following command:
 ```bash
-		    `java Main`
+		    `java GameModule`
 ```        
     -   Replace `Main` with the name of the main Java file that contains the `main()` method if it's different from `Main`.
 
