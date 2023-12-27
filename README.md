@@ -29,7 +29,7 @@ Poker Game is the core interface involving a dealer (the program) and a single h
 ```bash
 		    `java GameModule`
 ```        
-    -   Replace `Main` with the name of the main Java file that contains the `main()` method if it's different from `Main`.
+    -   Replace `GameModule` with the name of the main Java file that contains the `main()` method if it's different from `GameModule`.
 
 
 ## Game Functions (Administration Module)
