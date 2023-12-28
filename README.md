@@ -21,7 +21,6 @@ Poker Game is the core interface involving a dealer (the program) and a single h
 		    javac GameModule.java
 ```
 
-    - This command compiles all Java files (`*.java`) in the directory.
 
 3. **Run the Program:**
 
@@ -29,7 +28,6 @@ Poker Game is the core interface involving a dealer (the program) and a single h
 ```bash
 		    java GameModule.java
 ```        
-    -   Replace `GameModule` with the name of the main Java file that contains the `main()` method if it's different from `GameModule`.
 
 
 ## Game Functions (Administration Module)
